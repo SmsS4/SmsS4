@@ -11,7 +11,6 @@
         <a href="https://codeforces.com/profile/ThePilgrim">
             <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3629285-3031869.png" width=32>
         </a>
-        
 </div>
 
 
