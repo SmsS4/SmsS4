@@ -25,6 +25,8 @@
 - [Fix s3.clean.uploads](https://github.com/seaweedfs/seaweedfs/pull/4766)
 - [Update weed fix description](https://github.com/seaweedfs/seaweedfs/pull/4745)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Smss4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats.vercel.app/api?username=SmsS4&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SmsS4&theme=darcula&hide_border=true&background=FFFFFF00)
